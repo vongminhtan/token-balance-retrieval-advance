@@ -11,8 +11,12 @@ tron <br />
 avalanche <br />
 solana <br />
 
+<br /><br />
+
 <b>Cách lấy API KEY</b> <br />
 Bấm vào link phía trên => tạo tài khoản và đăng nhập => trỏ chuột vào user name => click vào mục API keys => Add <br />
+
+<br /><br />
 
 <b>Giới hạn</b> <br />
 100k requests/ 1 ngày <br />
@@ -21,6 +25,8 @@ Bấm vào link phía trên => tạo tài khoản và đăng nhập => trỏ chu
 Nếu muốn sử dụng nhiều hơn thì phải go pro hoặc tạo nhiều account. <br />
 
 Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn.  <br />
+
+<br /><br />
 
 <b>CÁCH SỬ DỤNG</b> <br />
 =GETTOKENBALANCE(contractAddress; walletAddress; network; divisor) <br />
