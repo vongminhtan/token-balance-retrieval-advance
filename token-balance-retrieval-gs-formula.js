@@ -11,7 +11,7 @@ const BASE_URLS = {
     "ethereum": "https://api.etherscan.io/api",
     "polygon": "https://api.polygonscan.com/api",
     "bsc": "https://api.bscscan.com/api",
-    "arbitrum": "https://api.arbiscan.io",
+    "arbitrum": "https://api.arbiscan.io/api",
     "base": "https://api.basescan.org/api",
     "optimism": "https://api-optimistic.etherscan.io/api",
 }
@@ -34,7 +34,11 @@ function GETTOKENBALANCE(contractAddress, walletAddress, network, divisor = 18) 
     const url = `${ BASE_URLS[network] }?address=${ walletAddress }&contractaddress=${ contractAddress }&apikey=${ API_KEYS[network] }&module=account&action=tokenbalance&tag=latest`;
 
     try {
-        const response = UrlFetchApp.fetch(url);
+        const options = {
+            method: 'GET',
+            muteHttpExceptions: true
+        };
+        const response = UrlFetchApp.fetch(url, options);
         if (response.getResponseCode() == 200) {
             var result = JSON.parse(response.getContentText());
 
