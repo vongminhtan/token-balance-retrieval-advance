@@ -1,26 +1,26 @@
 # token-balance-retrieval-advance
 
-Network support 
-bsc: https://bscscan.com/
-ethereum: https://etherscan.io/
-polygon: https://polygonscan.com/
-optimism: https://optimistic.etherscan.io/
-arbitrum: https://arbiscan.io/
-base: https://basescan.org/
-tron
-avalanche
-solana
+Network support <br />
+bsc: https://bscscan.com/ <br />
+ethereum: https://etherscan.io/ <br />
+polygon: https://polygonscan.com/ <br />
+optimism: https://optimistic.etherscan.io/ <br />
+arbitrum: https://arbiscan.io/ <br />
+base: https://basescan.org/ <br />
+tron <br />
+avalanche <br />
+solana <br />
 
-Cách lấy API KEY
-Bấm vào link phía trên => tạo tài khoản và đăng nhập => trỏ chuột vào user name => click vào mục API keys => Add
+Cách lấy API KEY <br />
+Bấm vào link phía trên => tạo tài khoản và đăng nhập => trỏ chuột vào user name => click vào mục API keys => Add <br />
 
-Giới hạn
-100k requests/ 1 ngày
-5 requests/ giây
+Giới hạn <br />
+100k requests/ 1 ngày <br />
+5 requests/ giây <br />
 
-Nếu muốn sử dụng nhiều hơn thì phải go pro hoặc tạo nhiều account.
+Nếu muốn sử dụng nhiều hơn thì phải go pro hoặc tạo nhiều account. <br />
 
-Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn. 
+Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn.  <br />
 
 
 
