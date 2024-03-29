@@ -22,5 +22,15 @@ Nếu muốn sử dụng nhiều hơn thì phải go pro hoặc tạo nhiều ac
 
 Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn.  <br />
 
+CÁCH SỬ DỤNG <br />
+=GETTOKENBALANCE(contractAddress; walletAddress; network; divisor) <br />
+
+- contractAddress: Địa chỉ hợp đồng token tùy theo network <br />
+- walletAddress: Địa chỉ ví holder <br />
+- network: 1 trong mạng sau: bsc, ethereum, polygon, optimism, arbitrum, base, tron, avalanche, solana <br />
+- divisor: là decimal trong những mạng scan. Ví dụ: USDT là 6, USDC là 6, FDUSD là 18 <br />
+
+  ![image](https://github.com/vongminhtan/token-balance-retrieval-advance/assets/45420102/4566bab1-3bd5-4632-83a9-e94cda729e44) <br />
+
 
 
