@@ -31,9 +31,7 @@ Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn
 <b>CÁCH SỬ DỤNG</b> <br />
 
 - Video hướng dẫn của bạn @khongbosotvicon: https://www.youtube.com/watch?v=qhrbg6bnc6Q
-
-=GETTOKENBALANCE(walletAddress; contractAddress; network; divisor) <br />
-
+  =GETTOKENBALANCE(walletAddress; contractAddress; network; divisor) <br />
 - walletAddress: Địa chỉ ví holder <br />
 - contractAddress: Địa chỉ hợp đồng token tùy theo network <br />
 - network: 1 trong mạng sau: bsc, ethereum, polygon, optimism, arbitrum, base, tron, avalanche, solana <br />
