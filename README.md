@@ -31,6 +31,7 @@ Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn
 <b>CÁCH SỬ DỤNG</b> <br />
 
 - Video hướng dẫn của bạn @khongbosotvicon: https://www.youtube.com/watch?v=qhrbg6bnc6Q
+- <br>
   =GETTOKENBALANCE(walletAddress; contractAddress; network; divisor) <br />
 - walletAddress: Địa chỉ ví holder <br />
 - contractAddress: Địa chỉ hợp đồng token tùy theo network <br />
