@@ -54,4 +54,5 @@ Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn
 <br />
 
 ### <span style="color:red">Khi mở file excel lần thứ 2 thì nó luôn bị hiển thị chữ `đang tải`, chờ hoài không thấy cập nhật gì. Tụi nó bị lười đấy, gọi tụi nó dậy bằng cách chạy 1 lệnh bất kỳ ở ô trống nào. Ví dụ: =SUM(1+2) </span>
- 
+
+- Link kết quả: https://docs.google.com/spreadsheets/d/1QrgPQ7m1cphhJ5hzItglWlWjHcxE7rLRy0W4zs-8UW8/edit#gid=1501248873
