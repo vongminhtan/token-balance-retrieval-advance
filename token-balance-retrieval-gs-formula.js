@@ -16,7 +16,7 @@ const BASE_URLS = {
     "optimism": "https://api-optimistic.etherscan.io/api",
 }
 
-function GETTOKENBALANCE(contractAddress, walletAddress, network, divisor = 18) {
+function GETTOKENBALANCE(walletAddress, contractAddress, network, divisor = 18) {
     network = network.toLowerCase();
 
     if (network === 'tron') {
