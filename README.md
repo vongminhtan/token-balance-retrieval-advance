@@ -22,7 +22,7 @@ Bấm vào link phía trên => tạo tài khoản và đăng nhập => trỏ chu
 100k requests/ 1 ngày <br />
 5 requests/ giây <br />
 
-Nếu muốn sử dụng nhiều hơn thì phải go pro hoặc tạo nhiều account. <br />
+Nếu muốn sử dụng nhiều hơn thì phải go pro hoặc tạo nhiều account thay key mỗi khi dùng hết giới hạn. <br />
 
 Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn.  <br />
 
@@ -46,5 +46,6 @@ Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn
 - Nếu muốn cột hoặc hàng không tăng giảm khi kéo thả thì thêm ký tự $ vào cột hoặc hàng mà ta không muốn thay đổi. Ví dụ: $A1 => chỉ thay đổi hàng; A$1 => chỉ thay đổi cột; $A$1 => không thay đổi cả cột và hàng. <br />
 - Phím tắt áp dụng công thức nhanh: Tại ô đã áp dụng công thức => Ctrl/Cmd + Shift + Right/Down (chọn dòng hoặc cột) => Ctrl/Cmd + Enter (Áp dụng công thức) <br />
 
+- Ví dụ được lấy từ file (sorry vì không nhớ nguồn): https://docs.google.com/spreadsheets/d/1jGCmRimNIeEhT6ZXMMC1wgOwfdCmTa2kPKf4LPcT8tk/edit#gid=1144275933
 ![image](https://github.com/vongminhtan/token-balance-retrieval-advance/assets/45420102/4e24bf6f-6626-4f45-a973-5d443a150768)
 
