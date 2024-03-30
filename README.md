@@ -53,8 +53,7 @@ Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn
 - Phím tắt áp dụng công thức nhanh: Tại ô đã áp dụng công thức => Ctrl/Cmd + Shift + Right/Down (chọn dòng hoặc cột) =>
   Ctrl/Cmd + Enter (Áp dụng công thức) <br />
 
-- Ví dụ được lấy từ file (sorry vì không nhớ
-  nguồn): https://docs.google.com/spreadsheets/d/1jGCmRimNIeEhT6ZXMMC1wgOwfdCmTa2kPKf4LPcT8tk/edit#gid=1144275933
+- Ví dụ được lấy từ file của bạn @0xjackyt: https://docs.google.com/spreadsheets/d/1jGCmRimNIeEhT6ZXMMC1wgOwfdCmTa2kPKf4LPcT8tk/edit#gid=1144275933
 
 
 ### <span style="color:red">Khi mở file excel lần thứ 2 và nó luôn hiển thị chữ `đang tải`, chờ hoài không thấy cập nhật gì thì TỤI NÓ ĐANG BỊ LƯỜI ĐẤY, gọi tụi nó dậy bằng cách chạy 1 lệnh bất kỳ ở ô trống nào. Ví dụ: =SUM(1+2) </span>
