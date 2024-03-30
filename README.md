@@ -55,10 +55,8 @@ Note: Tron, avalanche, solana không cần API key nhưng cũng có giới hạn
 
 - Ví dụ được lấy từ file (sorry vì không nhớ
   nguồn): https://docs.google.com/spreadsheets/d/1jGCmRimNIeEhT6ZXMMC1wgOwfdCmTa2kPKf4LPcT8tk/edit#gid=1144275933
-  ![image](https://github.com/vongminhtan/token-balance-retrieval-advance/assets/45420102/4e24bf6f-6626-4f45-a973-5d443a150768)
 
-<br />
 
-### <span style="color:red">Khi mở file excel lần thứ 2 thì nó luôn bị hiển thị chữ `đang tải`, chờ hoài không thấy cập nhật gì. Tụi nó bị lười đấy, gọi tụi nó dậy bằng cách chạy 1 lệnh bất kỳ ở ô trống nào. Ví dụ: =SUM(1+2) </span>
+### <span style="color:red">Khi mở file excel lần thứ 2 thì nó luôn bị hiển thị chữ `đang tải`, chờ hoài không thấy cập nhật gì thì TỤI NÓ ĐANG BỊ LƯỜI ĐẤY, gọi tụi nó dậy bằng cách chạy 1 lệnh bất kỳ ở ô trống nào. Ví dụ: =SUM(1+2) </span>
 
 - Link kết quả: https://docs.google.com/spreadsheets/d/1QrgPQ7m1cphhJ5hzItglWlWjHcxE7rLRy0W4zs-8UW8/edit#gid=1501248873
